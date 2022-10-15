@@ -1,5 +1,5 @@
-# PyQuest_Apollo
-re-engineering daemonlord from practice
+# PySimpleGUI_Template
+quick way to set up PySimpleGUI
 
 ```
 python -m venv .env
