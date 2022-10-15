@@ -2,6 +2,10 @@
 quick way to set up PySimpleGUI
 
 ```
+cd src/
+```
+
+```
 python -m venv .env
 ```
 
